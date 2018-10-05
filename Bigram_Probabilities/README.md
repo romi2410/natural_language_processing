@@ -1,4 +1,4 @@
-**Bigram Model - **
+**Bigram Model -**
 
 Approximates the probability of a word given all the
 previous words by using only the conditional probability of the
